@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sistema de Frequência</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Sistema de Controle de Frequência</h1>
+
+    <section>
+        <h2>Cadastrar Turma</h2>
+        <input type="text" id="nomeTurma" placeholder="Nome da Turma" />
+        <button onclick="handleAddTurma()">Adicionar Turma</button>
+    </section>
+
+    <section>
+        <h2>Cadastrar Aluno</h2>
+        <input type="text" id="nomeAluno" placeholder="Nome do Aluno" />
+        <select id="turmaSelectAluno"></select>
+        <button onclick="handleAddAluno()">Adicionar Aluno</button>
+    </section>
+
+    <section>
+        <h2>Marcar Presença</h2>
+        <input type="date" id="dataPresenca" />
+        <select id="turmaSelectPresenca"></select>
+        <select id="alunoSelect"></select>
+        <button onclick="handleMarcarPresenca()">Marcar Presença</button>
+    </section>
+
+    <section>
+        <h2>Relatório de Frequência</h2>
+        <select id="turmaSelectRelatorio"></select>
+        <select id="alunoSelectRelatorio"></select>
+        <button onclick="handleVerRelatorio()">Ver Presenças</button>
+        <ul id="relatorioLista"></ul>
+      </section>      
+
+    <script src="main.js"></script>
+</body>
+</html>

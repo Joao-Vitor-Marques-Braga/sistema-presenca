@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1744027706166,
+    "nome": "João Vitor",
+    "turmaId": 1744026875710
+  },
+  {
+    "id": 1744027769496,
+    "nome": "Vitor",
+    "turmaId": 1744027526841
+  },
+  {
+    "id": 1744027776335,
+    "nome": "João Vitor",
+    "turmaId": 1744027532382
+  },
+  {
+    "id": 1744027800209,
+    "nome": "João Marques",
+    "turmaId": 1744027537998
+  },
+  {
+    "id": 1744027901000,
+    "nome": "Ana Beatriz",
+    "turmaId": 1744026875710
+  },
+  {
+    "id": 1744027902000,
+    "nome": "Lucas Ferreira",
+    "turmaId": 1744027526841
+  },
+  {
+    "id": 1744027903000,
+    "nome": "Mariana Silva",
+    "turmaId": 1744027532382
+  },
+  {
+    "id": 1744027904000,
+    "nome": "Carlos Henrique",
+    "turmaId": 1744027537998
+  },
+  {
+    "id": 1744027905000,
+    "nome": "Beatriz Souza",
+    "turmaId": 1744026875710
+  },
+  {
+    "id": 1744027906000,
+    "nome": "Gabriel Costa",
+    "turmaId": 1744027526841
+  },
+  {
+    "id": 1744027907000,
+    "nome": "Larissa Rocha",
+    "turmaId": 1744027532382
+  },
+  {
+    "id": 1744027908000,
+    "nome": "Mateus Andrade",
+    "turmaId": 1744027537998
+  },
+  {
+    "id": 1744027909000,
+    "nome": "Julia Lima",
+    "turmaId": 1744026875710
+  },
+  {
+    "id": 1744027910000,
+    "nome": "Rafael Oliveira",
+    "turmaId": 1744027526841
+  },
+  {
+    "id": 1744027911000,
+    "nome": "Camila Martins",
+    "turmaId": 1744027532382
+  },
+  {
+    "id": 1744027912000,
+    "nome": "Eduardo Alves",
+    "turmaId": 1744027537998
+  },
+  {
+    "id": 1744027913000,
+    "nome": "Isabela Pereira",
+    "turmaId": 1744026875710
+  },
+  {
+    "id": 1744027914000,
+    "nome": "Bruno Santos",
+    "turmaId": 1744027526841
+  },
+  {
+    "id": 1744027915000,
+    "nome": "Amanda Nunes",
+    "turmaId": 1744027532382
+  },
+  {
+    "id": 1744027916000,
+    "nome": "Thiago Melo",
+    "turmaId": 1744027537998
+  },
+  {
+    "id": 1744063542895,
+    "nome": "João",
+    "turmaId": 1744026875710
+  }
+]
