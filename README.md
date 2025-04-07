@@ -2,7 +2,7 @@
 
 ## Arquitetura utilizada
 
-Será utilizado a arquitetura MVC (Model-View-Controller) para este sistema por proporcionar uma separação clara entre dados, interface e lógica. Isso facilita a manutenção, melhora a organização do código e permite futuras expansões sem comprometer a estrutura existente. Além disso, essa abordagem modular torna o desenvolvimento mais eficiente e a depuração de erros mais simples.
+	Será utilizado a arquitetura MVC (Model-View-Controller) para este sistema por proporcionar uma separação clara entre dados, interface e lógica. Isso facilita a manutenção, melhora a organização do código e permite futuras expansões sem comprometer a estrutura existente. Além disso, essa abordagem modular torna o desenvolvimento mais eficiente e a depuração de erros mais simples.
 	O sistema terá a seguinte organização com base no MVC:
 	sistema-frequência
 	-Model -> Gerenciamento de Dados
